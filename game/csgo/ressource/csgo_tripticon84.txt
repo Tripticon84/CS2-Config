@@ -1,3 +1,10 @@
+//	Text Color Mod v1.0
+//
+// 	Original Text Color Mod by xPaw
+// 	Modified and Translated in French by Tripticon84
+// 	Last time strings were updated : 01/10/2023
+
+
 "lang" {
 "Language" "french"
 "Tokens"
