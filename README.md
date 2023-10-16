@@ -6,7 +6,6 @@
 <h4 align="center">A CS2 config pack made by Tripticon84.</h4>
 
 ---
-# Tripticon84's Config Pack
 
 ## Includes:
 - Tripticon84's Autoexec
