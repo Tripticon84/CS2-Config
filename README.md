@@ -3,10 +3,9 @@
     Tripticon84's Config Pack
 </h1>
 
-<h4 align="center">A CS:GO config pack made by Tripticon84.</h4>
+<h4 align="center">A CS2 config pack made by Tripticon84.</h4>
 
 ---
-# Tripticon84's Config Pack
 
 ## Includes:
 - Tripticon84's Autoexec
@@ -19,11 +18,11 @@
 
 Drag all files to:
 
-    C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource
+    C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\
 
-Add `-exec autoexec.cfg` to launch options in `steam/csgo/properties/launch` options ( Optional but HIGHLY recommended)
+Add `-exec autoexec.cfg` to launch options in `steam/cs2/properties/launch` options ( Optional but HIGHLY recommended)
 
-Open CSGO if not already
+Open CS2 if not already
 
 Open console by pressing ` (Tilde)
 
@@ -36,7 +35,7 @@ type in console:
 
 # Personal Information
 
-**[Personals Settings for CS:GO](https://settings.gg/Tripticon84)**
+**[Personals Settings for CS2](https://settings.gg/Tripticon84)**
 
 **PC Configuration:**
 - i7-8700K CPU OC@ 4.30GHz
