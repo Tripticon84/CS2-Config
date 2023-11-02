@@ -115,8 +115,8 @@
 	
 	// Player awards
 	
-    "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • désamorcer"
-    "Player_Cash_Award_Bomb_Planted"                    " +$%s1 • planté"
+    "Player_Cash_Award_Bomb_Defused"                    " +$%s1 • Bombe désamorcée"
+    "Player_Cash_Award_Bomb_Planted"                    " +$%s1 • Bombe plantée"
     "Player_Cash_Award_Damage_Hostage"                  " -$%s1 • Otage blessés"
     "Player_Cash_Award_Get_Killed"                      " +$%s1 • Élimination"
     "Player_Cash_Award_Interact_Hostage"                " +$%s1 • Otage atteint"
